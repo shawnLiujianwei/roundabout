@@ -1,0 +1,22 @@
+{
+  "name": "roundabout",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cattze/roundabout",
+  "authors": [
+    "Shawn Liu <shawn.liu@dotter.me>"
+  ],
+  "description": "rountabout",
+  "main": "jquery.roundabout.js",
+  "keywords": [
+    "round",
+    "about"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
